@@ -1,5 +1,5 @@
 # TruthTableGenerator
-Generates a truth table from any input boolean expression. It does this by parsing string input, ensuring the entered expression is valid, then calling the appropriate gates for each command.
+Generates a truth table from any input boolean expression. It does this by parsing string input, ensuring the entered expression is valid, then calling the appropriate gates for each command. Note: This is untested and contains a lot of nasty string manipulation. Better methods have been recently learned for tokenizing.
 
 ## Example inputs and outputs
 
